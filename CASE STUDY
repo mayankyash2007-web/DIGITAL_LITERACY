@@ -1,0 +1,60 @@
+# 🔐 Cybercrime Case Study: UPI Payment Fraud Among College Students
+
+## 📌 Introduction
+With the rapid adoption of digital payment systems in India, especially UPI (Unified Payments Interface), financial transactions have become faster and more convenient. However, this convenience has also led to an increase in cybercrimes targeting unsuspecting users. One of the most common forms of cybercrime today is UPI payment fraud, which primarily affects students and young individuals who frequently use mobile payment applications.
+
+---
+
+## 🧾 Case Scenario
+Consider a scenario involving a college student who is trying to sell a second-hand item online through a marketplace. The student is contacted by a potential buyer who appears genuine and expresses interest in purchasing the item.
+
+The fraudster claims that they will transfer the payment via UPI and instead sends a "collect request" rather than actually transferring money. The student receives a notification asking them to approve the request. The scammer convinces the student that approving the request is necessary to receive the payment.
+
+Trusting the buyer, the student enters their UPI PIN and approves the request. Instead of receiving money, the student unknowingly authorizes a debit transaction, resulting in money being transferred from their account to the fraudster.
+
+---
+
+## 🔍 Step-by-Step Modus Operandi
+1. The scammer contacts the victim through an online platform or social media.
+2. They build trust by acting as a genuine buyer or bank representative.
+3. A fake payment request or malicious link is sent to the victim.
+4. The victim is misled into approving the request or sharing sensitive details.
+5. The scammer successfully transfers money from the victim's account.
+
+---
+
+## 🎯 Target Audience
+- College students and young adults  
+- First-time users of digital payment apps  
+- Individuals unfamiliar with cyber fraud techniques  
+- Users active on online marketplaces  
+
+---
+
+## ⚠️ Consequences of the Crime
+- Financial loss  
+- Emotional stress and anxiety  
+- Risk of identity theft  
+- Reduced trust in digital systems  
+
+---
+
+## 📊 Key Observations
+- Lack of awareness is the primary cause of such frauds  
+- Social engineering techniques are commonly used  
+- Many users do not understand how UPI requests work  
+
+---
+
+## 🛡️ Preventive Insight
+Users must understand the following:
+- Receiving money does NOT require entering a UPI PIN  
+- Any request asking for approval is a debit request  
+- Never share OTP, PIN, or personal banking details  
+
+---
+
+## 🧠 Conclusion
+UPI payment fraud is a serious and growing cyber threat among college students. Awareness and responsible digital behavior are essential to prevent such scams. By staying alert and informed, users can safely use digital payment platforms without falling victim to fraud.
+
+---
