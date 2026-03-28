@@ -1,65 +1,51 @@
-Stay Safe Online: Cybercrime Prevention Checklist
+# 🛡️ Stay Safe Online: Cybercrime Prevention Checklist
 
-(cid:44798)(cid:44799)(cid:44800)(cid:44797) General Safety Tips
+> ⚠️ **Important:** Cybercrime is increasing rapidly. Follow these guidelines to stay safe online.
 
-  Use strong and unique passwords for all accounts
+---
 
-
+## 🔐 General Safety Tips
+✔ Use strong and unique passwords  
+✔ Enable two-factor authentication (2FA)  
+✔ Avoid clicking on suspicious links  
+✔ Keep your apps and devices updated  
 
-Enable two-factor authentication (2FA)
+---
 
-  Do not click on unknown or suspicious links
+## 💳 Financial / UPI Safety Tips
+✔ Never approve unknown payment requests  
+✔ Do NOT share your UPI PIN or OTP  
+✔ Always verify receiver details before payment  
+✔ Avoid public Wi-Fi for financial transactions  
 
-
+---
 
-Keep your apps and devices updated
+## 🧠 Awareness & Smart Behavior
+✔ Be cautious of fake calls claiming to be from banks  
+✔ Ignore offers that seem too good to be true  
+✔ Always check website URLs before logging in  
+✔ Log out from shared/public devices  
 
-(cid:44340)(cid:44341)(cid:44342)(cid:44344)(cid:44343) Financial / UPI Safety Tips
+---
 
-  Never approve unknown payment requests
+## 📱 Social Media Safety
+✔ Do not overshare personal information  
+✔ Regularly update privacy settings  
+✔ Avoid accepting requests from unknown people  
 
-  Do not share your UPI PIN or OTP with anyone
+---
 
-
+## 🚨 Report Cybercrime (India)
 
-
+| Action | Details |
+|------|--------|
+| 🌐 Report Online | https://cybercrime.gov.in |
+| 📞 Helpline | **1930** |
 
-Verify the receiver’s details before sending money
+---
 
-Avoid using public Wi-Fi for ﬁnancial transactions
+## 🌟 Final Tip
+> 💡 **Think Before You Click!**  
+> Staying alert and informed is the best way to protect yourself from cyber threats.
 
-(cid:55982)(cid:55983)(cid:55984) Awareness & Behavior
-
-  Be cautious of calls pretending to be from banks
-
-  Do not trust o(cid:431)ers that seem too good to be true
-
-  Check URLs and app authenticity before login
-
-
-
-Log out from shared devices after use
-
-(cid:44659)(cid:44662)(cid:44663)(cid:44660)(cid:44661)(cid:44664) Social Media Safety
-
-  Do not overshare personal information
-
-
-
-
-
-Adjust privacy settings regularly
-
-Avoid accepting requests from unknown people
-
-(cid:47295)(cid:47296)(cid:47297)(cid:47298)(cid:47299)(cid:47300) Reporting Cybercrime (India)
-
-  Report online fraud at: https://cybercrime.gov.in
-
-  Call Cybercrime Helpline: 1930
-
-(cid:33430)(cid:33431)(cid:33432)(cid:33433)(cid:33434)(cid:33435) Final Tip
-
-Staying alert and informed is the best way to protect yourself from cyber threats. Always think before you click or approve
-any request.
-
+----
