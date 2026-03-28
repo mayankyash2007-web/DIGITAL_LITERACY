@@ -1,29 +1,3 @@
-### 💼 Maintain a Professional Image
-✔ Keep your profile clean and appropriate  
-✔ Use a professional profile picture  
-✔ Be mindful of what potential employers may see  
-
----
-
-### ⚠️ Avoid Misinformation
-✔ Verify information before sharing  
-✔ Avoid spreading rumors or fake news  
-✔ Follow credible sources  
-
----
-
-### ⏳ Manage Your Time
-✔ Limit excessive social media usage  
-✔ Avoid distractions during study time  
-✔ Use apps or settings to track screen time  
-
----
-
-### 🤝 Practice Online Etiquette
-✔ Be respectful and polite  
-✔ Avoid cyberbullying or trolling  
-✔ Respect others’ opinions  
-
 ---
 # 📱 Social Media Do’s and Don’ts Checklist
 
