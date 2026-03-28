@@ -33,7 +33,7 @@ The project is organised into five distinct tasks, each addressing a crucial asp
   - Online safety tips (passwords, phishing, 2FA)  
 - Learned how to present information clearly and visually  
 
-🔗 Link: https://www.canva.com/design/DAHFFmgD2xI/VeVuBwcNSfOPfpxMO8lLIA/edit?utm_content=DAHFFmgD2xI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+🔗 Link:https://canva.link/h3g2wha1gibdxvk
 
 ---
 
